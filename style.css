@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.gem{
+    background: white;
+}
+.user{
+    color: black;
+    background-color: white;
+    border-radius: 200px;
+}
+.btn-sign{
+    color: white;
+    padding-right: 80px;
+    border-left: 1px solid #fff;
+}
+.btn-sign:hover{
+    border-bottom: 3px solid blue;
+    color: white;
+}
+.nav-link{
+    color: white;
+    border-left: 1px solid white;
+}
+.nav-link:hover{
+    border-bottom: 3px solid white
+}
+.news{
+    color: red;
+}
+.news:hover{
+    border-bottom: 3px solid red
+}
+.spot{
+    color: yellow;
+}
+.spot:hover{
+    border-bottom: 3px solid yellow
+}
+.reel{
+    color: blue;
+}
+.reel:hover{
+    border-bottom: 3px solid blue
+}
+.worklife{
+    color: blue;
+}
+.worklife:hover{
+    border-bottom: 3px solid blue
+}
+.travel{
+    color: green;
+}
+.travel:hover{
+    border-bottom: 3px solid green
+}
+.future{
+    color: blue;
+}
+.future:hover{
+    border-bottom: 3px solid blue
+}
+.culture{
+    color: blueviolet;
+}
+.culture:hover{
+    border-bottom: 3px solid blueviolet
+}
+.search{
+    color: white;
+}
+.search:hover{
+    border-bottom: 3px solid white
+}
+.date{
+    font-size: x-large; 
+    float: right;
+}
+.text{
+    color: black;
+}
+.text:hover{
+    color: black;
+    text-decoration: none;
+}
+.asia{
+    border-left: 2px solid red;
+}
+.sport{
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+}
+.sport:hover{
+    color: black;
+    text-decoration: none;
+}
+.card{
+    border: none;
+}
+.col{
+    background: url("images/p08h02kk.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.reel{
+    color: white;
+}
+.reel:hover{
+    color: white;
+    text-decoration: none;
+}
+.class{
+    color: rgba(0, 0, 0, 0.493);
+    font-weight: bolder;
+    font-size: x-large;
+}
+.class:hover{
+    color: black;
+    text-decoration: none;
+}
+.well{
+    border: 1px solid white;
+    float: right;
+    color: white;
+    border-radius: 100px;
+}
+.well:hover{
+    background-color: black;
+}
+.anch{
+    color: black;
+}
+.anch:hover{
+    color: black;
+    text-decoration: none;
+}
+.afri{
+    border-left: 2px solid red;
+}
+.car{
+    font-size: x-large;
+    font-weight: bold;
+    border-left: 2px solid red;
+}
+
+/* @media (max-width: 575px){
+    .text{
+        color: green;
+        font-size: small;
+    }
+    .text:hover{
+        color: green;
+        text-decoration: none;
+    }
+    .asia{
+        border-left: 2px solid yellow;
+    }
+    .col{
+    background: url("images/p08h02kk.jpg");
+    height: 150vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    .space{
+        margin-top: 20px;
+    }
+    .class{
+        color: rgba(0, 0, 0, 0.493);
+        font-weight: bold;
+        font-size: small;
+    }
+    .class:hover{
+        color: black;
+        text-decoration: none;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 768px) { 
+    .text{
+        color: red;
+        font-size: small;
+    }
+    .text:hover{
+        color: red;
+        text-decoration: none;
+    }
+    .asia{
+        border-left: 2px solid black;
+    }
+    .col{
+        background: url("images/p08h02kk.jpg");
+        height: 230vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        }
+        .space{
+            margin-top: 20px;
+            width: 100%;
+        }
+        .class{
+            color: rgba(0, 0, 0, 0.493);
+            font-weight: bold;
+            font-size: 20px;
+        }
+        .class:hover{
+            color: black;
+            text-decoration: none;
+        }
+        .card{
+            width: 100%;
+        }
+} */
